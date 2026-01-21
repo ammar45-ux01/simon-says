@@ -14,9 +14,9 @@ body {
     opacity: 0.92; border: none;
   }
   .btn.green { background: #32de84; }
-  .btn.red { background: #ff3842; }
+  .btn.red { background: #ff3832; }
   .btn.yellow { background: #ffe156; }
   .btn.blue { background: #2d6cdf; }
-  .btn.active { box-shadow: 0 0 40px 10px #fff, 0 0 10px 5px #0002; opacity: 1;}
+  .btn.active { box-shadow: 0 0 40px 10px #fff, 0 0 10px 5px #0002; opacity: 1.5;}
   #controls { display: flex; gap: 16px; margin: 18px 0;}
   #message { color: #ffe156; margin: 10px; font-size: 1.2em; }
